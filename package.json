@@ -1,0 +1,22 @@
+{
+  "name": "adventjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "automating-christmas-gift-wrapping.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanmaranto/adventJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanmaranto/adventJs/issues"
+  },
+  "homepage": "https://github.com/alanmaranto/adventJs#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
